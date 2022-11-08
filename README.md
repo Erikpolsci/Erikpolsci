@@ -1,7 +1,7 @@
 Hey fellows,
 
 
-My name is Erik and I'm a fullstack developer with knowledge in HTML, CSS, JavaScript, Node.Js + Express, MongoDB and Sequelize. Currently learning React.
+My name is Erik and I'm a Jr fullstack developer with knowledge in HTML, CSS, JavaScript, Node.Js + Express, MongoDB and Sequelize. Currently working on React, React Native and NextJS .
 Step by step, consolidating knowledge.
 <!---
 Erikpolsci/Erikpolsci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
